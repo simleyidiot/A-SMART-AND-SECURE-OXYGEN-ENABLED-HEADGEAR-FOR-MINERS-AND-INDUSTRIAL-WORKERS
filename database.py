@@ -8,8 +8,8 @@ import time
 
 # MySQL database configuration
 db_config = {
-    'user': 'Dhaya',
-    'password': 'dhaya1234',
+    'user': 'Bala',
+    'password': 'bala1234',
     'host': 'localhost',
     'database': 'helmetdb'
 }
